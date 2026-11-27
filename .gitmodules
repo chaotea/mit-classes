@@ -1,0 +1,3 @@
+[submodule "6.861/K-BERT"]
+	path = 6.861/project/K-BERT
+	url = https://github.com/azfeng8/K-BERT.git
